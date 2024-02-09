@@ -9,7 +9,7 @@ You are a mobile engineer in the shuttlers team and are tasked with implementing
 
 The feature has the following acceptance criteria:
 - A user should get a notification informing them to get ready for their trip.
-- Notification should be clickable and should open the app, there the active view is a tracking screen.
+- Notification should be clickable and should open the app to a tracking screen as shown in the design.
 - The screen should have the following state:
     - [ ] for user not yet at pickup point
     - [ ] user at pickup point
